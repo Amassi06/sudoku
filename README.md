@@ -75,8 +75,8 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés :
 
 ---
 ## Images
-![description](images/image1.png)
-![sudoku](images/image2.png)
+![description](image1.png)
+![sudoku](image2.png)
 
 ## Fichiers
 
