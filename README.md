@@ -1,4 +1,4 @@
-# Sudoku Solver with Multithreading
+# Sudoku avec  Multithreading
 
 Bienvenue dans le répertoire de notre programme Sudoku ! Ce projet implémente un générateur de Sudoku valide, un résolveur de Sudoku, et une fonctionnalité pour vider des cases aléatoires d'une grille en utilisant des threads pour optimiser certaines opérations.
 
